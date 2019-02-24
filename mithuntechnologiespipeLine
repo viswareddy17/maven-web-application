@@ -75,7 +75,6 @@ Bangalore
    {
      slackSend baseUrl: 'https://devops-team-bangalore.slack.com/services/hooks/jenkins-ci/', channel: 'build-notification', message: '"Build Done"', tokenCredentialId: '193d10e7-9280-4629-84e8-5ec4a30b87b5' }
  
-  
 }
 
 
