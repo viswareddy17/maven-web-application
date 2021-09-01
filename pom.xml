@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
-	<name>Maven Web Application_dev</name>
+	<name>Dev - env-Branch-application</name>
 	<url>http://mithuntechnologies.com</url>
 	
 	<description>Maven Web Project</description>
